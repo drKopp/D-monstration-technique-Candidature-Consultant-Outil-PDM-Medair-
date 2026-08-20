@@ -34,7 +34,7 @@ Conformément à la section 4.2 du TDR, le cœur du travail est un **classeur Ex
 
 L'outil s'actualise automatiquement (bouton « Actualiser ») dès que de nouvelles données sont disponibles dans la source connectée, conformément à l'exigence d'« actualisation automatique des analyses après mise à jour des données ».
 
-📎 [**Télécharger le classeur Excel**](LIEN_VERS_VOTRE_FICHIER_EXCEL)
+📎 [**Télécharger le classeur Excel**](Outil_PDM_Medair.xlsx)
 
 ---
 
